@@ -9,3 +9,7 @@ My Solutions to the Software Engineering (NIT2213) unit. This course is part of 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshots
+
+![Screenshot 2024-10-22 012207](https://github.com/user-attachments/assets/8adb128c-acc2-45c3-87a7-2a57e2358d82)
